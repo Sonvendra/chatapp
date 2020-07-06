@@ -1,0 +1,9 @@
+.MuiPaper-rounded{
+    padding: 20px;
+}
+.MuiTypography-h5{
+    text-align: center;
+}
+.error{
+    color:red;
+}
